@@ -1,4 +1,16 @@
+![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge\&logo=windows)
+![PowerShell](https://img.shields.io/badge/Built%20With-PowerShell-5391FE?style=for-the-badge\&logo=powershell)
+![Adobe Reader](https://img.shields.io/badge/Requires-Adobe%20Acrobat%20Reader-red?style=for-the-badge\&logo=adobeacrobatreader)
+![Printer](https://img.shields.io/badge/Printer-Duplex%20Supported-green?style=for-the-badge\&logo=hp)
+![Paper Size](https://img.shields.io/badge/Paper-Legal%20Size%20\(8.5x14\)-orange?style=for-the-badge)
+![Mode](https://img.shields.io/badge/Mode-Headless%20Automatic-black?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Free%20to%20Use-brightgreen?style=for-the-badge)
+------------------------------------------------------------------------------------------------
+
 # Bulk PDF Print Manager (Headless Legal Duplex Printing)
+
+# Bulk PDF Print Manager (Headless Legal Duplex Printing)
+
 
 A Windows-based headless bulk printing system that prints hundreds of PDF files **one-by-one sequentially** without freezing the printer spooler.
 
